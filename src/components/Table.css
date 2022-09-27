@@ -1,0 +1,16 @@
+.tablica {
+border: 1px solid #333;
+padding: 3em;
+margin: 4em;
+
+}
+.container{
+  width: 100%;
+margin: 0 auto;
+}
+
+.pagination{
+    margin-left: 20%;
+    margin-right: 20%;
+}
+
